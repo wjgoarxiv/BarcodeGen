@@ -1,6 +1,8 @@
 # BarcodeGen
 ::A simple barcode generator using Python::
 
+<img src = "./barcode.png" width=50%>
+
 This project is a Jupyter Notebook designed for users who want to easily create their own __CODE128 type barcodes__. This project provides a simple interface for generating barcodes from user input.
 
 이 프로젝트는 유저가 __CODE128 타입 바코드__ 를 쉽게 생성하고 싶을 때 사용할 수 있는 Jupyter Notebook 입니다. 인풋을 통해 바코드를 쉽게 생성할 수 있는 간단한 인터페이스를 제공해요. 
@@ -14,8 +16,9 @@ There are two ways to execute this project.
 ### 1. Use local Jupyter Notebook / Jupyter Notebook를 이용하는 경우
 
 If you want to use this project locally, you can download the project and run it on your local Jupyter Notebook. Download the [local version](./BarcodeGenV1_Local+Ver.ipynb) from the repository and run it on your local Jupyter Notebook.
+You can just visit [here](https://colab.research.google.com/drive/1m4UYbwDHy3p33W3wL4zWlKltZiJHxqPj?usp=sharing) to instantly execute this project. 
 
-로컬에서 이 프로젝트를 사용하고 싶다면, 프로젝트를 다운로드 받아서 로컬 Jupyter Notebook에서 실행하세요. [로컬 버전](./BarcodeGenV1_Local+Ver.ipynb)을 다운로드 받아서 로컬 Jupyter Notebook에서 실행하면 됩니다.
+로컬에서 이 프로젝트를 사용하고 싶다면, 프로젝트를 다운로드 받아서 로컬 Jupyter Notebook에서 실행하세요. [로컬 버전](./BarcodeGenV1_Local+Ver.ipynb)을 다운로드 받아서 로컬 Jupyter Notebook에서 실행하면 됩니다. 혹은 [여기](https://colab.research.google.com/drive/1m4UYbwDHy3p33W3wL4zWlKltZiJHxqPj?usp=sharing)를 방문하여 바로 코드를 실행해볼 수도 있어요.
 
 ### 2. Use Google Colab / Google Colab을 이용하는 경우
 
