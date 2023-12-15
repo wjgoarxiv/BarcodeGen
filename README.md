@@ -16,16 +16,15 @@ There are two ways to execute this project.
 ### 1. Use local Jupyter Notebook / Jupyter Notebook를 이용하는 경우
 
 If you want to use this project locally, you can download the project and run it on your local Jupyter Notebook. Download the [local version](./BarcodeGenV1_Local+Ver.ipynb) from the repository and run it on your local Jupyter Notebook.
-You can just visit [here](https://colab.research.google.com/drive/1m4UYbwDHy3p33W3wL4zWlKltZiJHxqPj?usp=sharing) to instantly execute this project. 
 
-로컬에서 이 프로젝트를 사용하고 싶다면, 프로젝트를 다운로드 받아서 로컬 Jupyter Notebook에서 실행하세요. [로컬 버전](./BarcodeGenV1_Local+Ver.ipynb)을 다운로드 받아서 로컬 Jupyter Notebook에서 실행하면 됩니다. 혹은 [여기](https://colab.research.google.com/drive/1m4UYbwDHy3p33W3wL4zWlKltZiJHxqPj?usp=sharing)를 방문하여 바로 코드를 실행해볼 수도 있어요.
+로컬에서 이 프로젝트를 사용하고 싶다면, 프로젝트를 다운로드 받아서 로컬 Jupyter Notebook에서 실행하세요. [로컬 버전](./BarcodeGenV1_Local+Ver.ipynb)을 다운로드 받아서 로컬 Jupyter Notebook에서 실행하면 됩니다. 
 
 ### 2. Use Google Colab / Google Colab을 이용하는 경우
 
 You can also use this project on Google Colab.
-To do this, you can download the [Colab version](./BarcodeGenV1_Colab+Ver.ipynb) from the repository and upload it to your Google Drive. Then, you can open it with Google Colab and run it.
+To do this, you can download the [Colab version](./BarcodeGenV1_Colab+Ver.ipynb) from the repository and upload it to your Google Drive. Then, you can open it with Google Colab and run it. You can just visit [here](https://colab.research.google.com/drive/1m4UYbwDHy3p33W3wL4zWlKltZiJHxqPj?usp=sharing) to instantly execute this project. 
 
-Google Colab에서도 이 프로젝트를 사용할 수 있어요. 그러려면 [Colab 버전](./BarcodeGenV1_Colab+Ver.ipynb)을 다운로드 받아서 Google Drive에 업로드 하시고, Google Colab에서 열어서 실행하세요. 
+Google Colab에서도 이 프로젝트를 사용할 수 있어요. 그러려면 [Colab 버전](./BarcodeGenV1_Colab+Ver.ipynb)을 다운로드 받아서 Google Drive에 업로드 하시고, Google Colab에서 열어서 실행하세요. 혹은 [여기](https://colab.research.google.com/drive/1m4UYbwDHy3p33W3wL4zWlKltZiJHxqPj?usp=sharing)를 방문하여 바로 코드를 실행해볼 수도 있어요.
 
 ## Contributing / 기여하기
  
